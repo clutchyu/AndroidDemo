@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_first"
+        android:checked="true"
+        android:icon="@drawable/ic_call"
+        android:title="课表"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_second"
+        android:checked="false"
+        android:icon="@drawable/ic_chat"
+        android:title="选课"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_third"
+        android:checked="false"
+        android:icon="@drawable/ic_contact"
+        android:title="个人信息"
+        app:showAsAction="ifRoom" />
+</menu>

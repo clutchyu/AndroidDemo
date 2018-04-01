@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">学生选课系统</string>
+
+    <string name="tab1">课表</string>
+    <string name="tab2">选课</string>
+    <string name="tab3">个人信息</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="empty_second">无未选课程</string>
+    <string name="empty_first">无已选课程</string>
+    <string name="empty">无课程信息</string>
+
+
+</resources>
